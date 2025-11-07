@@ -1,6 +1,6 @@
 # Banking-System
 Developed a banking system application using object oriented programming (OOP).
-# Description
+## Description
 The project implements a console-based Banking System using Python. The system 
 provides basic functionality such as creating accounts, logging in, performing 
 transactions, viewing balances, and admin functionalities for monitoring purposes.
