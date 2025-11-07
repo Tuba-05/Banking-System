@@ -4,7 +4,7 @@ Developed a banking system application using object oriented programming (OOP).
 The project implements a console-based Banking System using Python. The system 
 provides basic functionality such as creating accounts, logging in, performing 
 transactions, viewing balances, and admin functionalities for monitoring purposes.
-# OOP Features
+## OOP Features
 - An abstract class Account is created, and the CheckingAccount, SavingsAccount & Loan 
 classes inherit from it. This promotes code reuse and clarity. 
   * Parent class: Account 
